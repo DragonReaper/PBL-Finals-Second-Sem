@@ -1,0 +1,1 @@
+CREATE TABLE test(DATE date, country VARCHAR(MAX), TotalInfected smallInt, TotalRecoveries smallInt);
